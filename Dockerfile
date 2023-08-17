@@ -1,1 +1,1 @@
-From dzhuang/tinymediamanager:latest
+FROM dzhuang/tinymediamanager:latest
